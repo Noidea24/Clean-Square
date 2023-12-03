@@ -7,15 +7,15 @@ minor error on boot, This is just a fork and not an entire rework of the code, s
 ```
 [WARNING] non fatal error while updating view: dictionary changed size during iteration
 ```
-- change for the darkmode of LCD screen  (for ST7789)
+- change this file for the modification of LCD screen  (for ST7789)
 ```
 /usr/local/lib/python3.7/dist-packages/pwnagotchi/ui/hw/libs/waveshare/lcdhat/epd.py  
 ```
-- change for darkmode of web UI  
+- change this file for modification of web UI  
 ```
 /usr/local/lib/python3.7/dist-packages/pwnagotchi/ui/web/__init__.py
 ```
-- change for the preview image dimension and position from the web UI  
+- change for file the preview image dimension and position from the web UI  
 ```
 /usr/local/lib/python3.7/dist-packages/pwnagotchi/ui/web/static/css/style.css  
 ```
@@ -45,7 +45,7 @@ main.plugins.exp.exp_y_coord = 81
 main.plugins.exp.bar_symbols_count = 12
 ```
   
-- change for the main interface positions and design
+- change these files for the main interface positions and design
 ```
 /usr/local/lib/python3.7/dist-packages/pwnagotchi/ui/hw/base.py
 /usr/local/lib/python3.7/dist-packages/pwnagotchi/ui/hw/lcdhat.py
