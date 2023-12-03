@@ -50,6 +50,7 @@ main.plugins.exp.bar_symbols_count = 12
 /usr/local/lib/python3.9/dist-packages/pwnagotchi/ui/hw/base.py
 /usr/local/lib/python3.9/dist-packages/pwnagotchi/ui/hw/lcdhat.py
 /usr/local/lib/python3.9/dist-packages/pwnagotchi/ui/components.py
+/usr/local/lib/python3.9/dist-packages/pwnagotchi/ui/view.py
 ```  
 
 - all custom position values inside plugins  
