@@ -9,15 +9,15 @@ minor error on boot, This is just a fork and not an entire rework of the code, s
 ```
 - change this file for the modification of LCD screen  (for ST7789)
 ```
-/usr/local/lib/python3.7/dist-packages/pwnagotchi/ui/hw/libs/waveshare/lcdhat/epd.py  
+/usr/local/lib/python3.9/dist-packages/pwnagotchi/ui/hw/libs/waveshare/lcdhat/epd.py  
 ```
 - change this file for modification of web UI  
 ```
-/usr/local/lib/python3.7/dist-packages/pwnagotchi/ui/web/__init__.py
+/usr/local/lib/python3.9/dist-packages/pwnagotchi/ui/web/__init__.py
 ```
 - change for file the preview image dimension and position from the web UI  
 ```
-/usr/local/lib/python3.7/dist-packages/pwnagotchi/ui/web/static/css/style.css  
+/usr/local/lib/python3.9/dist-packages/pwnagotchi/ui/web/static/css/style.css  
 ```
   
 - options inside the /etc/pwnagotchi/config.toml  
@@ -47,9 +47,9 @@ main.plugins.exp.bar_symbols_count = 12
   
 - change these files for the main interface positions and design
 ```
-/usr/local/lib/python3.7/dist-packages/pwnagotchi/ui/hw/base.py
-/usr/local/lib/python3.7/dist-packages/pwnagotchi/ui/hw/lcdhat.py
-/usr/local/lib/python3.7/dist-packages/pwnagotchi/ui/components.py
+/usr/local/lib/python3.9/dist-packages/pwnagotchi/ui/hw/base.py
+/usr/local/lib/python3.9/dist-packages/pwnagotchi/ui/hw/lcdhat.py
+/usr/local/lib/python3.9/dist-packages/pwnagotchi/ui/components.py
 ```  
 
 - all custom position values inside plugins  
