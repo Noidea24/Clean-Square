@@ -1,5 +1,5 @@
 # Clean-Square
-This is a mod to change the LCD and web UI of a Waveshare 1.3" lcd hat running pwnagotchi
+This is a mod to change the LCD and web UI of a Waveshare 1.3" lcd hat running pwnagotchi-torch to a cleaner U.I. that takes advantage of the screen.
 -------------- 
 This mod is aimed at jayofelony's latest pwnagotchi-torch image. It uses python 3.9. I do not have a pisugar/ups, gps, rtc, etc. so this UI is not optimized for the display of plugins such as clock, battery level, etc. I Might get the hardware and update this later.
 
