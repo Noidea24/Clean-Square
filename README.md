@@ -31,18 +31,18 @@ ui.display.bg = false
 ui.display.bg_path = "/home/pi/img/null.png"
 ui.display.hi-res = true
 
-main.plugins.age.enabled = true
-main.plugins.age.age_x_coord = 0
-main.plugins.age.age_y_coord = 32
-main.plugins.age.str_x_coord = 67
-main.plugins.age.str_y_coord = 32
-
 main.plugins.exp.enabled = true
-main.plugins.exp.lvl_x_coord = 0
-main.plugins.exp.lvl_y_coord = 81
-main.plugins.exp.exp_x_coord = 38
-main.plugins.exp.exp_y_coord = 81
+main.plugins.exp.lvl_x_coord = 1
+main.plugins.exp.lvl_y_coord = 202
+main.plugins.exp.exp_x_coord = 40
+main.plugins.exp.exp_y_coord = 202
 main.plugins.exp.bar_symbols_count = 12
+
+main.plugins.age.enabled = true
+main.plugins.age.age_x_coord = 1
+main.plugins.age.age_y_coord = 186
+main.plugins.age.str_x_coord = 68
+main.plugins.age.str_y_coord = 186
 ```
   
 - change these files for the main interface positions and design
