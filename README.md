@@ -54,10 +54,10 @@ main.plugins.exp.bar_symbols_count = 12
 ```  
 
 - all custom position values inside plugins  
-inside: /usr/local/lib/python3.7/dist-packages/pwnagotchi/plugins/default/  
+inside: /usr/local/lib/python3.9/dist-packages/pwnagotchi/plugins/default/  
 memtemp.py  
 bt-tether.py
 exp.py
 age.py
-  
-   
+fix_services.py  
+
